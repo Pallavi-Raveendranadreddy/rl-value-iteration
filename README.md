@@ -54,7 +54,8 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ![image](https://github.com/ManojTella/rl-value-iteration/assets/94883876/5cccad65-dc48-4187-899e-74cd3c7de9af)
-![image](https://github.com/ManojTella/rl-value-iteration/assets/94883876/caac9e26-534d-4fc0-903e-8af8d2842485)
+![image](https://github.com/Pallavi-Raveendranadreddy/rl-value-iteration/assets/94294872/95bc565b-d8a9-4cd5-aeda-33e3ddc2b1a4)
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/rl-value-iteration/assets/94294872/1b62684f-3da6-43c2-8466-1e341304757a)
 
 
