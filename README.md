@@ -30,10 +30,10 @@ The problem involves using the Value Iteration algorithm to find the best strate
 
 ## VALUE ITERATION FUNCTION
 ```
-envdesc=['FFFH','FHFF','FFGF','SFFH']
+envdesc=['SFHF','FGFF','FFHF','FHFF']
 env = gym.make('FrozenLake-v1')
 init_state = env.reset()
-goal_state = 10
+goal_state = 5
 P = env.env.P
 ```
 ```
